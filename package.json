@@ -1,0 +1,24 @@
+{
+  "name": "prodev-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonceSavings/prodev-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NonceSavings/prodev-bot/issues"
+  },
+  "homepage": "https://github.com/NonceSavings/prodev-bot#readme",
+  "description": "",
+  "dependencies": {
+    "@slack/bolt": "^4.2.1",
+    "dotenv": "^16.4.7"
+  }
+}
